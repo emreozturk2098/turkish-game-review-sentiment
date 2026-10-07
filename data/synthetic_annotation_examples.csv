@@ -1,0 +1,4 @@
+review_id,review,graphics,ai,gameplay,overall
+example_1,"Grafikler güzel ama düşman davranışları kötü.",positive,negative,neutral,neutral
+example_2,"Kontroller akıcı ve oynanış harika.",neutral,neutral,positive,positive
+example_3,"Görseller güzel ama kontroller kötü.",positive,neutral,negative,neutral

@@ -1,0 +1,32 @@
+{
+  "images": [
+    {
+      "file": "assets/ngram_aspect_metrics.png",
+      "source_presentation": "CS549_Project_TUR1.pptx",
+      "source_media": "ppt/media/image14.png",
+      "slide": 12,
+      "sha256": "fe1c443fd75454dd78597f021c2d7a2ff149b7ed65a0232683d947bd295a26aa",
+      "modified": false
+    },
+    {
+      "file": "assets/bert_loss_curves.png",
+      "source_presentation": "CS549_Project_TUR1.pptx",
+      "source_media": "ppt/media/image13.png",
+      "slide": 14,
+      "sha256": "2ed041f133b3dd162a89075eb08d7bc719ce98372baa00106101b4bb46c86fa7",
+      "modified": false
+    },
+    {
+      "file": "assets/bert_epoch_table.png",
+      "source_presentation": "CS549_Project_TUR1.pptx",
+      "source_media": "ppt/media/image3.png",
+      "slide": 14,
+      "sha256": "3985f1c1f182bb136f2f9a5ac85fe9d90c9e397faa43e7bfc918f3290b1c8367",
+      "modified": false
+    }
+  ],
+  "results_source": "Slide 14 embedded epoch table",
+  "code_source": "PROJE KODLARI.docx; selected normalize_text/get_keyword_pattern/SUFFIXES",
+  "synthetic_data": "Three newly authored illustrative reviews, not source corpus",
+  "provenance": "Emre supplied course materials; team roles from slide 2"
+}

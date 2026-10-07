@@ -1,0 +1,4 @@
+epoch,training_loss,validation_loss,validation_accuracy
+1,0.1886,0.0966,0.9703
+2,0.1087,0.0877,0.9731
+3,0.0776,0.0855,0.9760

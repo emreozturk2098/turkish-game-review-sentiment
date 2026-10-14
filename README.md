@@ -33,6 +33,3 @@ Source: presentation slide 14. These are archived team validation outputs; no tr
 - [Synthetic annotation examples](data/synthetic_annotation_examples.csv).
 - [Archived BERT table](results/bert_archived_epochs.csv) and [original table image](assets/bert_epoch_table.png).
 - [Source and image manifest](docs/SOURCE_MANIFEST.json).
-
-## Portfolio preparation and contact
-Documentation and selected portfolio materials were prepared with **Codex and Claude assistance**, separately from the original team work. This repo remains **private**. Full material requests: **emre.ozturk.2098@gmail.com**.

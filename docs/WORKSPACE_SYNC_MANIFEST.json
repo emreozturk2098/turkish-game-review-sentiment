@@ -1,6 +1,5 @@
 {
   "audit_date": "2026-10-16",
-  "remote_updated": false,
   "files": [
     {
       "repo": "turkish-game-review-sentiment",
@@ -171,5 +170,6 @@
       "bytes": 17559,
       "reason": "NLP labeling script found in CS552 mixed root; content belongs to CS549 game-aspect labeling"
     }
-  ]
+  ],
+  "scope": "Source-file recovery manifest prepared before publication; current remote status is recorded in the workspace verification log."
 }

@@ -36,3 +36,6 @@ Source: presentation slide 14. These are archived team validation outputs; no tr
 
 ## Original materials recovered — 16 October 2026
 [Recovered materials and execution limitations](docs/RECOVERED_MATERIALS.md) · [File provenance manifest](docs/WORKSPACE_SYNC_MANIFEST.json). No reported experiment was rerun.
+
+## Setup and archive validation
+[Environment, paths and execution scope](RUNNING.md). Run `python tools/check_archive.py` to verify the archive without training.

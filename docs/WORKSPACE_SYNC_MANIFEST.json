@@ -1,0 +1,175 @@
+{
+  "audit_date": "2026-10-16",
+  "remote_updated": false,
+  "files": [
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek (1).xlsx",
+      "path": "data/original/cleaned_reviews_zemberek (1).xlsx",
+      "status": "added",
+      "sha256": "874ed0d8e547982a4839f1e37cb9d60089d5b6ba1caaf6d5e237d191fb1aaa3f",
+      "bytes": 695379
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek (2).xlsx",
+      "path": "data/original/cleaned_reviews_zemberek (1).xlsx",
+      "status": "already_present_identical",
+      "sha256": "874ed0d8e547982a4839f1e37cb9d60089d5b6ba1caaf6d5e237d191fb1aaa3f",
+      "bytes": 695379
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek-test-3.xlsx",
+      "path": "data/original/cleaned_reviews_zemberek-test-3.xlsx",
+      "status": "added",
+      "sha256": "9ba5d044e978069ab13535aeb1f437623b6aba96153cc107e6a93fdb99c96c91",
+      "bytes": 849092
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek.xlsx",
+      "path": "data/original/cleaned_reviews_zemberek (1).xlsx",
+      "status": "already_present_identical",
+      "sha256": "874ed0d8e547982a4839f1e37cb9d60089d5b6ba1caaf6d5e237d191fb1aaa3f",
+      "bytes": 695379
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek_GUNCEL-update copy.xlsx",
+      "path": "data/original/cleaned_reviews_zemberek_GUNCEL-update copy.xlsx",
+      "status": "added",
+      "sha256": "7928b5ec3747bb7816649af5484eec1fee01086ee53695d9f86a32fea216e3fe",
+      "bytes": 723466
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/cleaned_reviews_zemberek_GUNCEL.xlsx",
+      "path": "data/original/cleaned_reviews_zemberek_GUNCEL.xlsx",
+      "status": "added",
+      "sha256": "d9a510a95c323e9516364d41f12f8e9241dd0a25cc4a75094b9e50aea337315a",
+      "bytes": 872522
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/CS549_Project_TUR1.pdf",
+      "path": "reports/original/CS549_Project_TUR1.pdf",
+      "status": "added",
+      "sha256": "1dbe552263b03d2dd4b7a3be2ce927d178b15e6d7d892cfc026daeadf6327b53",
+      "bytes": 1001781
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/CS549_Project_TUR1.pptx",
+      "path": "reports/original/CS549_Project_TUR1.pptx",
+      "status": "added",
+      "sha256": "af2d7faad2bafeaa9854e85961983d8171d50e073d2ebad7f41dc5b4892fea37",
+      "bytes": 1375305
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Games_Rewievs_Cleaned.xlsx",
+      "path": "data/original/Games_Rewievs_Cleaned.xlsx",
+      "status": "added",
+      "sha256": "4abd732ec7ede183ed5406697992212ee8e4b5a02966ced7aafe8fccb493741e",
+      "bytes": 78176
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Games_Rewievs_Dataset_Excel.xlsx",
+      "path": "data/original/Games_Rewievs_Dataset_Excel.xlsx",
+      "status": "added",
+      "sha256": "281380a159b7b9e9a4794c8b9432b9074698464d99af6f83f550bf6759b47fb8",
+      "bytes": 700432
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Games_Sentiment_Analysis_Results.xlsx",
+      "path": "data/original/Games_Sentiment_Analysis_Results.xlsx",
+      "status": "added",
+      "sha256": "95640edb347f696f71824dd6c8dc27bc0283d3f5a8ec7cc27099af3ed5844b31",
+      "bytes": 106519
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Games_Sentiment_Analysis_Results_Updated.xlsx",
+      "path": "data/original/Games_Sentiment_Analysis_Results_Updated.xlsx",
+      "status": "added",
+      "sha256": "0324d0afcae3b79e9d6f92ee3083c9b658af971f9cbed2f478cbc64b173951f0",
+      "bytes": 335216
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/kufur_vs_removal.py",
+      "path": "source/original/kufur_vs_removal.py",
+      "status": "added",
+      "sha256": "127ed690d81544ec2932944f6bbf464058066cb2b59889f4243de1a2f5c2fcf7",
+      "bytes": 6109
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Literatüre Review.docx",
+      "path": "reports/original/Literatüre Review.docx",
+      "status": "added",
+      "sha256": "66016957f4a7f91a0a21a0e2dee3102aad004eb54f3bbe612b8db4f4c3d76af7",
+      "bytes": 7732
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/PROJE KODLARI.docx",
+      "path": "reports/original/PROJE KODLARI.docx",
+      "status": "added",
+      "sha256": "f06a6c67b3fe573780d340fce5a5b1164e80fe726bd98ec0cae28dc1144a2337",
+      "bytes": 34687
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Project_Report_Draft.docx",
+      "path": "reports/original/Project_Report_Draft.docx",
+      "status": "added",
+      "sha256": "46a0e17fa7cddc4941621601410fe60a83909f175ced0d6432eac40809e4da6b",
+      "bytes": 239417
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Scrapping (1).xlsx",
+      "path": "data/original/Scrapping (1).xlsx",
+      "status": "added",
+      "sha256": "b2a1f1f1856386450ed420b5c04a6a4175b93feaf054c9cf3f2748d2197cf8b1",
+      "bytes": 869287
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Scrapping.xlsx",
+      "path": "data/original/Scrapping (1).xlsx",
+      "status": "already_present_identical",
+      "sha256": "b2a1f1f1856386450ed420b5c04a6a4175b93feaf054c9cf3f2748d2197cf8b1",
+      "bytes": 869287
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1-CS549- Natural Language Processing- Olcay Hoca/CS549_Project1/Veriseti.xlsx",
+      "path": "data/original/Veriseti.xlsx",
+      "status": "added",
+      "sha256": "5ed34540fb45c9a726ec46deea9425b6d5e1fe4e15b4a3a0b96ace97b83941bb",
+      "bytes": 7963
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS549_Project1/PROJE KODLARI.docx (plain-text extraction)",
+      "path": "source/recovered_code_document.txt",
+      "status": "added",
+      "sha256": "e53828dbad253a27ff3e0ffb76b1a92aaf791a00c5648ebee6b678fa7ac4dc9d",
+      "bytes": 23636
+    },
+    {
+      "repo": "turkish-game-review-sentiment",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/sentiment.py",
+      "path": "source/original/aspect_labeling_sentiment.py",
+      "status": "added",
+      "sha256": "e0ae020cdffc484165b7f2fa3afc163ce0c4895be7e784bc183200826f2c3388",
+      "bytes": 17559,
+      "reason": "NLP labeling script found in CS552 mixed root; content belongs to CS549 game-aspect labeling"
+    }
+  ]
+}

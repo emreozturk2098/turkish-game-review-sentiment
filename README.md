@@ -1,6 +1,6 @@
 # Turkish Game Review Sentiment — Aspect Annotation and Course Study
 
-**Graduate coursework at Özyeğin University — CS549, Natural Language Processing.** This private portfolio documents a team study of Turkish game reviews: identify whether a comment is positive, negative or neutral about graphics, AI and gameplay, rather than assign only one sentiment to the whole review.
+**Graduate coursework at Özyeğin University — CS549, Natural Language Processing.** This academic portfolio documents a team study of Turkish game reviews: identify whether a comment is positive, negative or neutral about graphics, AI and gameplay, rather than assign only one sentiment to the whole review.
 
 ## What problem was addressed?
 “The graphics are good, but the AI is poor” contains opposing opinions about different aspects. The work explores preparing and labeling Turkish review text so that these opinions can be analyzed separately. Turkish word forms, slang, mixed sentiment and infrequent aspect mentions make both annotation and evaluation difficult.
@@ -11,7 +11,7 @@ Team: **Emre Öztürk, Ali Baki Türköz and Demba Sow.** The supplied presentat
 ## What was done?
 The presentation reports approximately **2,100 Turkish Steam reviews from 35 games**, cleaned and manually labeled by three researchers. Team methods include text cleanup, language filtering and Turkish morphological preprocessing, followed by Turkish BERT overall sentiment and a TF-IDF/logistic regression multi-output aspect baseline.
 
-The repository includes selected original keyword-matching code, **three synthetic annotation examples**, and existing presentation outputs. Full reviews and original model-training code are not distributed. The tiny example file is unrelated to the reported model scores.
+The repository includes selected original keyword-matching code, **three synthetic annotation examples**, and existing presentation outputs. Original supplied review workbooks and labeling/filtering materials have now been recovered; this does not establish that a complete original BERT training pipeline is available. The tiny example file is unrelated to the reported model scores.
 
 ## Archived output and what it shows
 | BERT epoch | Training loss | Validation loss | Validation accuracy |
@@ -33,3 +33,6 @@ Source: presentation slide 14. These are archived team validation outputs; no tr
 - [Synthetic annotation examples](data/synthetic_annotation_examples.csv).
 - [Archived BERT table](results/bert_archived_epochs.csv) and [original table image](assets/bert_epoch_table.png).
 - [Source and image manifest](docs/SOURCE_MANIFEST.json).
+
+## Original materials recovered — 16 October 2026
+[Recovered materials and execution limitations](docs/RECOVERED_MATERIALS.md) · [File provenance manifest](docs/WORKSPACE_SYNC_MANIFEST.json). No reported experiment was rerun.
